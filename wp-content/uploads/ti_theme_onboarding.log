@@ -1,0 +1,18 @@
+[11/Sep/2020:07:16:09] (I): WordPress Instance Info:
+[11/Sep/2020:07:16:09] (I): Home URL : http://naivetrends.com
+[11/Sep/2020:07:16:09] (I): Site URL : http://naivetrends.com
+[11/Sep/2020:07:16:09] (I): WordPress Version : 5.5.1
+[11/Sep/2020:07:16:09] (I): Onboarding Version : 1.0.9
+[11/Sep/2020:07:16:09] (I): Multisite : No
+[11/Sep/2020:07:16:09] (I): Server Info : Apache
+[11/Sep/2020:07:16:09] (I): PHP Version : 7.4.8
+[11/Sep/2020:07:16:09] (I): HTTPS : No
+[11/Sep/2020:07:16:09] (I): PHP Max Execution Time : 60
+[11/Sep/2020:07:16:09] (I): PHP Max Input Vars : 8000
+[11/Sep/2020:07:16:09] (I): Max Upload Size : 10485760
+[11/Sep/2020:07:16:09] (I): Plugins:
+[11/Sep/2020:07:16:09] (I): [PLUGIN] Cloudflare : v3.5.1 (Cloudflare, Inc.)
+[11/Sep/2020:07:16:09] (I): [PLUGIN] Elementor : v3.0.7 (Elementor.com)
+[11/Sep/2020:07:16:09] (I): [PLUGIN] FakerPress : v0.5.0 (Gustavo Bordoni)
+[11/Sep/2020:07:16:09] (I): [PLUGIN] Templates Patterns Collection : v1.0.9 (ThemeIsle)
+[11/Sep/2020:07:16:09] (I): [PLUGIN] Orbit Fox Companion : v2.9.17 (Themeisle)
